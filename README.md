@@ -1,5 +1,13 @@
 - [Google Summer of Code 2024 Report](#google-summer-of-code-2024-report)
 - [Project Overview](#project-overview)
+	- [Background](#background)
+	- [Project Status](#project-status)
+    - [Minimal PU21 filter](#minimal-pu21-filter)
+      - [Paramaters](#parameters)
+    - [Future Projected Enhancements](#future-projected-enhancements)
+- [Experience](#experience)
+	- [Challenges and approach](#challenges-and-approach)
+	- [Acknowledgements](#acknowledgements)
 
 ## Google Summer of Code 2024 Report
 
